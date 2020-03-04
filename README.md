@@ -12,15 +12,18 @@
 |142. 环形链表 II|https://leetcode-cn.com/problems/linked-list-cycle-ii/|
 |:-|:-:|
 
-# 4.区间范围求解
+# 4.区间范围、数组子集
 ## 4.1 解析
+位运算获取所有子集(限元素个数为64以内)
 ## 4.2 相关题目
 |495. 提莫攻击|https://leetcode-cn.com/problems/teemo-attacking/|
 |:-|:-:|
 |56. 合并区间|https://leetcode-cn.com/problems/merge-intervals/|
+|78. 子集|https://leetcode-cn.com/problems/subsets/|
 
 # 5.栈、队列
 ## 5.1 解析
 单调递增栈、单调递减栈、优先级队列
 ## 5.2 相关题目
-
+|739. 每日温度|https://leetcode-cn.com/problems/daily-temperatures/|
+|:-|:-:|
