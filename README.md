@@ -1,10 +1,11 @@
 
 # 1.二分查找法
 
-# 2.DFS/BFS
+# 2.DFS/BFS/回溯
 ## 2.1 相关题目
 |1034. 边框着色|https://leetcode-cn.com/problems/coloring-a-border/|
 |:-|:-:|
+|526. 优美的排列|https://leetcode-cn.com/problems/beautiful-arrangement/|
 
 # 3.双指针(快慢针)
 ## 3.1 解析
