@@ -3,6 +3,7 @@
 ## 1.1 相关题目
 |240. 搜索二维矩阵 II|https://leetcode-cn.com/problems/search-a-2d-matrix-ii/|
 |:-|:-:|
+|面试题 16.24. 数对和|https://leetcode-cn.com/problems/pairs-with-sum-lcci/submissions/|
 
 
 # 2.DFS/BFS/回溯
