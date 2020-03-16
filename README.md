@@ -1,5 +1,9 @@
 
 # 1.二分查找法
+## 1.1 相关题目
+|240. 搜索二维矩阵 II|https://leetcode-cn.com/problems/search-a-2d-matrix-ii/|
+|:-|:-:|
+|526. 优美的排列|https://leetcode-cn.com/problems/beautiful-arrangement/|
 
 # 2.DFS/BFS/回溯
 ## 2.1 相关题目
@@ -31,3 +35,10 @@
 ## 5.2 相关题目
 |739. 每日温度|https://leetcode-cn.com/problems/daily-temperatures/|
 |:-|:-:|
+|856. 括号的分数|https://leetcode-cn.com/problems/score-of-parentheses/|
+
+# 6.链表、hash
+## 6.1 相关题目
+|1171 从链表中删去总和值为零的连续节点|https://leetcode-cn.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/|
+|:-|:-:|
+
