@@ -3,7 +3,7 @@
 ## 1.1 相关题目
 |240. 搜索二维矩阵 II|https://leetcode-cn.com/problems/search-a-2d-matrix-ii/|
 |:-|:-:|
-|526. 优美的排列|https://leetcode-cn.com/problems/beautiful-arrangement/|
+
 
 # 2.DFS/BFS/回溯
 ## 2.1 相关题目
