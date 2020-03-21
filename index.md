@@ -11,7 +11,9 @@
 239
 
 #2.并查集
-547
+|547. 朋友圈|https://leetcode-cn.com/problems/friend-circles/|
+|:-|:-|:-:|
+
 684
 200
 737
