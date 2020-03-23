@@ -83,6 +83,9 @@
 213、1043、416、123、62、63、651、361、1066、750、1230、1055
 
 # 11.贪心算法
+|945. 使数组唯一的最小增量|https://leetcode-cn.com/problems/minimum-increment-to-make-array-unique/|
+|:-|:-:|
+
 452
 1231
 1247
