@@ -25,6 +25,9 @@
 924
 
 # 3.滑动窗口
+|1208. 尽可能使字符串相等|https://leetcode-cn.com/problems/get-equal-substrings-within-budget/|
+|:-|:-:|
+
 1208
 209
 1004
