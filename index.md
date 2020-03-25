@@ -24,7 +24,8 @@
 323
 924
 
-# 3.滑动窗口
+# 3.滑动窗口&双指针
+滑动窗口：
 |1208. 尽可能使字符串相等|https://leetcode-cn.com/problems/get-equal-substrings-within-budget/|
 |:-|:-:|
 |209. 长度最小的子数组|https://leetcode-cn.com/problems/minimum-size-subarray-sum/|
@@ -35,6 +36,9 @@
 1151
 159
 1100
+双指针：
+|19. 删除链表的倒数第N个节点|https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/|
+|:-|:-:|
 
 # 4.前缀和&hash
 560
