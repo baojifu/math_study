@@ -28,8 +28,8 @@
 |1208. 尽可能使字符串相等|https://leetcode-cn.com/problems/get-equal-substrings-within-budget/|
 |:-|:-:|
 |209. 长度最小的子数组|https://leetcode-cn.com/problems/minimum-size-subarray-sum/|
+|1004. 最大连续1的个数 III|https://leetcode-cn.com/problems/max-consecutive-ones-iii/|
 
-1004
 1208
 340
 1151
