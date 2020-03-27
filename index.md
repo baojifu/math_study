@@ -44,8 +44,8 @@
 # 4.前缀和&hash
 |560. 和为K的子数组|https://leetcode-cn.com/problems/subarray-sum-equals-k/|
 |:-|:-:|
+|523. 连续的子数组和|https://leetcode-cn.com/problems/continuous-subarray-sum/|
 
-523
 974
 
 # 5.差分
