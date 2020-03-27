@@ -42,7 +42,9 @@
 |:-|:-:|
 
 # 4.前缀和&hash
-560
+|560. 和为K的子数组|https://leetcode-cn.com/problems/subarray-sum-equals-k/|
+|:-|:-:|
+
 523
 974
 
