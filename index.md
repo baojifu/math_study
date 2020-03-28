@@ -46,6 +46,7 @@
 |:-|:-:|
 |523. 连续的子数组和|https://leetcode-cn.com/problems/continuous-subarray-sum/|
 |974. 和可被 K 整除的子数组|https://leetcode-cn.com/problems/subarray-sums-divisible-by-k/|
+|1358. 包含所有三种字符的子字符串数目|https://leetcode-cn.com/problems/number-of-substrings-containing-all-three-characters/|
 
 
 # 5.差分
