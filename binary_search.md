@@ -106,3 +106,5 @@ int binarySearch(vector<int>& nums, int target){
     return -1;
 }
 ```
+
+https://www.cnblogs.com/kyoner/p/11080078.html
