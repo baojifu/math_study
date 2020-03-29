@@ -1,7 +1,6 @@
 # 1.模版一
 
 初始条件：left = 0, right = length-1
-
 终止：left > right
 向左查找：right = mid-1
 向右查找：left = mid+1
