@@ -108,3 +108,57 @@ int binarySearch(vector<int>& nums, int target){
 ```
 
 https://www.cnblogs.com/kyoner/p/11080078.html
+# 4.模版4
+寻找左边界  
+```C
+int left_bound(int[] nums, int target) {
+    if (nums.length == 0) return -1;
+    int left = 0;
+    int right = nums.length; // 注意
+
+    while (left < right) { // 注意
+        int mid = (left + right) / 2;
+        if (nums[mid] == target) {
+            right = mid;  // 注意：不退出，像左侧缩小区间继续查找，不退出
+        } else if (nums[mid] < target) {
+            left = mid + 1;
+        } else if (nums[mid] > target) {
+            right = mid; // 注意
+        }
+    }
+    return left;
+}
+```
+上述返回值，没有返回-1，实际返回值的含义可以看成是“小于target的数量”。[1, 2, 3, 4] target=8, 返回4   
+如果要返回左侧第一个目标值，那么增加如下：  
+```C
+// target 比所有数都大
+if (left == nums.length) return -1;
+// 类似之前算法的处理方式
+return nums[left] == target ? left : -1;
+```
+
+# 5.模版5
+寻找右侧边界  
+```C
+int right_bound(int[] nums, int target) {
+    if (nums.length == 0) return -1;
+    int left = 0, right = nums.length;
+
+    while (left < right) {
+        int mid = (left + right) / 2;
+        if (nums[mid] == target) {
+            left = mid + 1; // 注意
+        } else if (nums[mid] < target) {
+            left = mid + 1;
+        } else if (nums[mid] > target) {
+            right = mid;
+        }
+    }
+    return left - 1; // 注意
+```
+
+```C
+if (left == 0) return -1;
+return nums[left-1] == target ? (left-1) : -1;
+```
