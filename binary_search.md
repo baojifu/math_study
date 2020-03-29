@@ -9,7 +9,7 @@
 查找条件可以在不与元素的两侧进行比较的情况下确定（或使用它周围的特定元素）。
 不需要后处理，因为每一步中，你都在检查是否找到了元素。如果到达末尾，则知道未找到该元素。
 
-```
+```C
 int binarySearch(vector<int>& nums, int target){
   if(nums.size() == 0)
     return -1;
