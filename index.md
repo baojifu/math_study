@@ -64,6 +64,9 @@
 269
 
 # 7.字符串
+|647. 回文子串|https://leetcode-cn.com/problems/palindromic-substrings/|
+|:-|:-:|
+
 5
 93
 43
@@ -110,3 +113,8 @@
 1231
 648
 208
+
+# 13.特殊排序/数组
+|31. 下一个排列|https://leetcode-cn.com/problems/next-permutation/|
+|:-|:-:|
+
