@@ -86,6 +86,9 @@
 934
 
 # 9.DFS
+|365. 水壶问题|https://leetcode-cn.com/problems/water-and-jug-problem/|
+|:-|:-:|
+
 934
 1102
 685
