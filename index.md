@@ -68,6 +68,7 @@
 # 7.字符串
 |647. 回文子串|https://leetcode-cn.com/problems/palindromic-substrings/|
 |:-|:-:|
+|5. 最长回文子串|https://leetcode-cn.com/problems/longest-palindromic-substring/|
 
 5
 93
