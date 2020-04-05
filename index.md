@@ -69,7 +69,7 @@
 |647. 回文子串|https://leetcode-cn.com/problems/palindromic-substrings/|
 |:-|:-:|
 |5. 最长回文子串|https://leetcode-cn.com/problems/longest-palindromic-substring/|
-
+|5362. 构造 K 个回文字符串|https://leetcode-cn.com/problems/construct-k-palindrome-strings/|
 5
 93
 43
