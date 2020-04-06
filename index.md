@@ -80,6 +80,7 @@
 |:-|:-:|
 |139. 单词拆分|https://leetcode-cn.com/problems/word-break/|
 |130. 被围绕的区域|https://leetcode-cn.com/problems/surrounded-regions/|
+|934. 最短的桥|https://leetcode-cn.com/problems/shortest-bridge/|
 
 139
 130
