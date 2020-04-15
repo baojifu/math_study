@@ -118,6 +118,7 @@
 # 11.贪心算法
 |945. 使数组唯一的最小增量|https://leetcode-cn.com/problems/minimum-increment-to-make-array-unique/|
 |:-|:-:|
+|763. 划分字母区间|https://leetcode-cn.com/problems/partition-labels/|
 
 452
 1231
