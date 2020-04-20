@@ -101,7 +101,7 @@
 |93. 复原IP地址|https://leetcode-cn.com/problems/restore-ip-addresses/|
 |337. 打家劫舍 III|https://leetcode-cn.com/problems/house-robber-iii/|
 |679. 24 点游戏|https://leetcode-cn.com/problems/24-game/submissions/|
-
+|282. 给表达式添加运算符|https://leetcode-cn.com/problems/expression-add-operators/|
 
 934
 1102
