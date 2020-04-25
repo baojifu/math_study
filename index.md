@@ -142,3 +142,8 @@
 |31. 下一个排列|https://leetcode-cn.com/problems/next-permutation/|
 |:-|:-:|
 
+# 14.分治
+|53. 最大子序和|https://leetcode-cn.com/problems/maximum-subarray/|
+|:-|:-:|
+
+
