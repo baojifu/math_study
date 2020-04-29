@@ -145,5 +145,6 @@
 # 14.分治
 |53. 最大子序和|https://leetcode-cn.com/problems/maximum-subarray/|
 |:-|:-:|
+|241. 为运算表达式设计优先级|https://leetcode-cn.com/problems/different-ways-to-add-parentheses/|
 
 
