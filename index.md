@@ -83,12 +83,12 @@
 |139. 单词拆分|https://leetcode-cn.com/problems/word-break/|
 |130. 被围绕的区域|https://leetcode-cn.com/problems/surrounded-regions/|
 |934. 最短的桥|https://leetcode-cn.com/problems/shortest-bridge/|
+|529. 扫雷游戏|https://leetcode-cn.com/problems/minesweeper/|
 
 139
 130
 317
 505
-529
 1263
 1197
 815
