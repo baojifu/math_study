@@ -8,6 +8,7 @@
 |面试题 16.26. 计算器|https://leetcode-cn.com/problems/calculator-lcci/|
 |42. 接雨水|https://leetcode-cn.com/problems/trapping-rain-water/|
 |227. 基本计算器 II|https://leetcode-cn.com/problems/basic-calculator-ii/|
+|224. 基本计算器|https://leetcode-cn.com/problems/basic-calculator/|
 
 901
 239
