@@ -149,3 +149,6 @@
 |241. 为运算表达式设计优先级|https://leetcode-cn.com/problems/different-ways-to-add-parentheses/|
 
 
+# 15.设计
+|1381. 设计一个支持增量操作的栈|https://leetcode-cn.com/problems/design-a-stack-with-increment-operation/|
+|:-|:-:|
