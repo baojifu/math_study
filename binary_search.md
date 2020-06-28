@@ -137,6 +137,8 @@ if (left == nums.length) return -1;
 // 类似之前算法的处理方式
 return nums[left] == target ? left : -1;
 ```
+面试题 10.03. 搜索旋转数组
+https://leetcode-cn.com/problems/search-rotate-array-lcci/
 
 # 5.模版5
 寻找右侧边界  
