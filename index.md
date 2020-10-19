@@ -56,6 +56,7 @@
 |974. 和可被 K 整除的子数组|https://leetcode-cn.com/problems/subarray-sums-divisible-by-k/|
 |1358. 包含所有三种字符的子字符串数目|https://leetcode-cn.com/problems/number-of-substrings-containing-all-three-characters/|
 |146. LRU缓存机制|https://leetcode-cn.com/problems/lru-cache/|
+|1124. 表现良好的最长时间段|https://leetcode-cn.com/problems/longest-well-performing-interval/|
 
 
 # 5.差分
