@@ -15,7 +15,7 @@
 |1209. 删除字符串中的所有相邻重复项 II|https://leetcode-cn.com/problems/remove-all-adjacent-duplicates-in-string-ii/|
 |456. 132模式|https://leetcode-cn.com/problems/132-pattern/|
 |636. 函数的独占时间|https://leetcode-cn.com/problems/exclusive-time-of-functions/|
-
+|921. 使括号有效的最少添加|https://leetcode-cn.com/problems/minimum-add-to-make-parentheses-valid/|
 
 901
 239
