@@ -16,6 +16,7 @@
 |456. 132模式|https://leetcode-cn.com/problems/132-pattern/|
 |636. 函数的独占时间|https://leetcode-cn.com/problems/exclusive-time-of-functions/|
 |921. 使括号有效的最少添加|https://leetcode-cn.com/problems/minimum-add-to-make-parentheses-valid/|
+|1190. 反转每对括号间的子串|https://leetcode-cn.com/problems/reverse-substrings-between-each-pair-of-parentheses/|
 
 901
 239
